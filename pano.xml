@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.13" start="node1" apprev="18080">
+  <panorama id="node1">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" width="2048">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="3.94715">
+      <start pan="-1.84" fov="59.13" projection="4" tilt="4.26"/>
+      <flyin pan="0" fov="170" projection="4" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" latitude="" nodeid="node1" title="Acceso a Fraccionamiento" tags="Rendered Panos" comment="" longitude="" customnodeid="" author="" copyright="" datetime="" heading="3.94715" description="" source="">
+      <mapcoords x="0.541077" x_floorplan_percent="37.9211" mapid="FloorPlan01" y="-1.34445" y_floorplan_percent="91.4526"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" enabled="1" textalpha="1" borderradius="1" height="20" backgroundalpha="1" wordwrap="1" width="180" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-354.8" skinid="ht_node" target="1.0/2.0/70.0" url="{node2}" title="" tilt="-1.86" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0" rubberband="0" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" width="2048">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-46.8819">
+      <start pan="0.79" fov="59.13" projection="4" tilt="6.56"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" latitude="" nodeid="node2" title="Area de juegos en parque de acceso" tags="Rendered Panos" comment="" longitude="" customnodeid="" author="" copyright="" datetime="" heading="-46.8819" description="" source="">
+      <mapcoords x="0.55481" x_floorplan_percent="38.8835" mapid="FloorPlan01" y="-0.949631" y_floorplan_percent="64.596"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" enabled="1" textalpha="1" borderradius="1" height="20" backgroundalpha="1" wordwrap="1" width="180" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-355.43" skinid="ht_node" target="" url="{node3}" title="" tilt="-1.24" description=""/>
+      <hotspot id="Point02" pan="-228.18" skinid="ht_node" target="" url="{node1}" title="" tilt="-1.27" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0" rubberband="0" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" width="2048">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="114.583">
+      <start pan="-2.53" fov="59.13" projection="4" tilt="5.74"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" latitude="" nodeid="node3" title="Area verde en parque de acceso" tags="Rendered Panos" comment="" longitude="" customnodeid="" author="" copyright="" datetime="" heading="114.583" description="" source="">
+      <mapcoords x="0.306244" x_floorplan_percent="21.4629" mapid="FloorPlan01" y="-0.698318" y_floorplan_percent="47.5012"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" enabled="1" textalpha="1" borderradius="1" height="20" backgroundalpha="1" wordwrap="1" width="180" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-310.9" skinid="ht_node" target="" url="{node5}" title="" tilt="-0.14" description=""/>
+      <hotspot id="Point02" pan="-20.0818" skinid="ht_node" target="$fwd" url="{node2}" title="Area de juegos en parque de acceso" tilt="0" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0" rubberband="0" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" width="2048">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="33.1911">
+      <start pan="0" fov="70" projection="4" tilt="0"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" latitude="" nodeid="node4" title="Area de Arenero en parque posterior" tags="Rendered Panos" comment="" longitude="" customnodeid="" author="" copyright="" datetime="" heading="33.1911" description="" source="">
+      <mapcoords x="1.05194" x_floorplan_percent="73.7247" mapid="FloorPlan01" y="-0.990143" y_floorplan_percent="67.3517"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" enabled="1" textalpha="1" borderradius="1" height="20" backgroundalpha="1" wordwrap="1" width="180" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="34.8285" skinid="ht_node" target="$fwd" url="{node5}" title="Area de juegos en parque posterior" tilt="-0.02" description=""/>
+      <hotspot id="Point02" pan="-226.48" skinid="ht_node" target="" url="{node2}" title="" tilt="-1.92" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0" rubberband="0" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" height="2048" overlap="1" levelingroll="0" width="2048">
+      <level preload="0" height="2048" width="2048" predecode="0"/>
+      <level preload="0" height="1024" width="1024" predecode="0"/>
+      <level preload="0" height="512" width="512" predecode="0"/>
+      <level preload="1" height="256" width="256" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-205.656">
+      <start pan="11.69" fov="59.13" projection="4" tilt="1.46"/>
+      <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fov="120" fovstereographic="270" fovfisheye="360" scaletofit="1" tilt="90"/>
+    </view>
+    <userdata info="" latitude="" nodeid="node5" title="Area de juegos en parque posterior" tags="Rendered Panos" comment="" longitude="" customnodeid="" author="" copyright="" datetime="" heading="-205.656" description="" source="">
+      <mapcoords x="1.03821" x_floorplan_percent="72.7623" mapid="FloorPlan01" y="-0.403061" y_floorplan_percent="27.4171"/>
+    </userdata>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label borderalpha="1" border="1" enabled="1" textalpha="1" borderradius="1" height="20" backgroundalpha="1" wordwrap="1" width="180" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" textcolor="0x000000"/>
+      <polystyle borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-21.25" skinid="ht_node" target="" url="{node4}" title="" tilt="-0.91" description=""/>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" enabled="1" zoomout="0" type="crossdissolve" zoomafteroutfov="20" softedge="0" zoomspeed="2" zoomfov="20" blendcolor="0x000000" blendtime="1" zoomafterinfov="90" zoomin="0"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control invertcontrol="1" contextprojections="0" lockedwheel="0" lockedkeyboardzoom="0" hideabout="0" rubberband="0" contextfullscreen="1" dblclickfullscreen="0" lockedkeyboard="0" invertwheel="0" sensitivity="8" simulatemass="1" speedwheel="1" contextvr="1" lockedmouse="0"/>
+  </panorama>
+  <masternode>
+    <userdata info="" latitude="" nodeid="master" title="" tags="" comment="" longitude="" customnodeid="" author="" copyright="" datetime="" heading="0" description="" source=""/>
+  </masternode>
+  <map id="FloorPlan01" type="file" height="2141" tileformat="png" title="" width="2078" floorplannorth="0.65" zoomlevels="1" transparent="1" bgcolor="rgba(255, 255, 255, 0)"/>
+</tour>
